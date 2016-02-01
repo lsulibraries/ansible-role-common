@@ -1,5 +1,0 @@
----
-- name: htop
-  apt: 
-    name: htop
-    update_cache: true
